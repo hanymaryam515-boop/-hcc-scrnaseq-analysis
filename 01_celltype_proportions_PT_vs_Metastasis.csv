@@ -1,0 +1,13 @@
+"patient","group","celltype","n_cells","total_cells","proportion"
+"HCC07","Metastasis","B",137,1614,0.0848822800495663
+"HCC07","Metastasis","Endothelial",19,1614,0.0117719950433705
+"HCC07","Metastasis","Fibroblast",59,1614,0.0365551425030979
+"HCC07","Metastasis","Hepatocyte",84,1614,0.0520446096654275
+"HCC07","Metastasis","Myeloid",1096,1614,0.67905824039653
+"HCC07","Metastasis","T/NK",219,1614,0.135687732342007
+"HCC08","Metastasis","B",28,3812,0.00734522560335782
+"HCC08","Metastasis","Endothelial",51,3812,0.0133788037775446
+"HCC08","Metastasis","Fibroblast",103,3812,0.0270199370409234
+"HCC08","Metastasis","Hepatocyte",2893,3812,0.758919202518363
+"HCC08","Metastasis","Myeloid",410,3812,0.107555089192025
+"HCC08","Metastasis","T/NK",327,3812,0.0857817418677859
